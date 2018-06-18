@@ -1,0 +1,41 @@
+Name: Rahul Lele
+USC ID: 2483165273
+News site crawled: nbcnews.com
+
+Fetch Statistics
+=====================
+fetches attempted: 19996
+fetched succeeded: 16254
+fetched failed or aborted: 3742
+
+
+Outgoing URLs
+=====================
+Total URLS extracted: 501005
+# unique URLs extracted: 131046
+# unique URLs within newssite: 99058
+# unique URLs outside newssite: 31988
+
+Status Codes
+=====================
+404 Not Found: 311
+500 Internal Server Error: 10
+200 OK: 16254
+410 null: 41
+301 Moved Permanently: 3353
+302 Found: 26
+
+File Size
+=====================
+< 1KB: 5
+1KB ~ <10KB: 5
+10KB ~ <100KB: 11893
+100KB ~ <1MB: 4310
+>= 1MB: 41
+
+Content Types
+=====================
+image/png: 10
+text/html: 16235
+image/gif: 2
+
